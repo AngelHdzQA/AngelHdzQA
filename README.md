@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Manual Testing (Basics)<br>Checklist(Proficent)<br>Test Planning (Basics)<br>Documentation (Basics)<br>Bug report(Basics)<br>Mobile testing(Basics)<br>API Testing(Basics)<br>GUI Testing(Basics)<br>Command Line (Basics)</p>
 
 ###
 
