@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [www.linkedin.com/in/angelhernandezfonseca](www.linkedin.com/in/angelhernandezfonseca)
   <h2 align="center"></h2>
  <h3 align="left">Skills</h3>
+ 
 - Manual Testing (Basics)
 - Checklist(Proficent)
 - Test Planning (Basics)
