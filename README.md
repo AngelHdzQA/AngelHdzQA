@@ -28,22 +28,17 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [www.linkedin.com/in/angelhernandezfonseca](www.linkedin.com/in/angelhernandezfonseca)
 
-  <h2 align="left">Skills</h2>
+  <h3 align="left">Skills</h3>
 
-###
-
-<p align="left">Manual Testing (Basics)
-<br>- Checklist(Proficent)
-<br>- Test Planning (Basics)
-<br>- Documentation (Basics)
-<br>- Bug report(Basics)
-<br>- Mobile testing(Basics)
-<br>- API Testing(Basics)
-<br>- GUI Testing(Basics)
-<br> Command Line (Basics)
-</p>
-
-###
+- lefManual Testing (Basics)
+- Checklist(Proficent)
+- Test Planning (Basics)
+- Documentation (Basics)
+- Bug report(Basics)
+- Mobile testing(Basics)
+- API Testing(Basics)
+- GUI Testing(Basics)
+- Command Line (Basics)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
