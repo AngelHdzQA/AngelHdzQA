@@ -78,5 +78,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+### 
+<a href="https://www.flaticon.com/free-icons/software-testing" title="software testing icons">Software testing icons created by Uniconlabs - Flaticon</a>
 
