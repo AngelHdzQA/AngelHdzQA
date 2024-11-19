@@ -1,6 +1,6 @@
 ## Hi there, I am Angel Hernández👋
-![Header](C:\Users\hange\Downloads\github-header-image.png)
 <!--
+![Header](./your-header-image-name.png)
 **AngelHdzQA/AngelHdzQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
