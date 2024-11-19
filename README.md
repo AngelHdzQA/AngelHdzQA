@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [www.linkedin.com/in/angelhernandezfonseca](www.linkedin.com/in/angelhernandezfonseca)
 
   <h3 align="left">Skills</h3>
+  <h2 align="center"></h2>
 
 - Manual Testing (Basics)
 - Checklist(Proficent)
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 - GUI Testing(Basics)
 - Command Line (Basics)
 
-
+  <h2 align="left"></h2>
 
 ###
 
