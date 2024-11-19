@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
   <h3 align="left">Skills</h3>
 
-- lefManual Testing (Basics)
+- Manual Testing (Basics)
 - Checklist(Proficent)
 - Test Planning (Basics)
 - Documentation (Basics)
