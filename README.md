@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - GUI Testing(Basics)
 - Command Line (Basics)
 
-  <h2 align="left">Skills</h2>
+
 
 ###
 
