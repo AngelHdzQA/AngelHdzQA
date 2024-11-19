@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 </div>
 
 ### 
-<a href="https://www.flaticon.com/free-icons/software-testing" title="software testing icons">Software testing icons created by Uniconlabs - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/software-testing" title="software testing icons">Credits for Software testing icon used in banner-Flaticon</a>
 
