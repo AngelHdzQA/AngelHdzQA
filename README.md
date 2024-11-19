@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/AngelHdzQA/AngelHdzQA/blob/main/Git_banner_AngelHdz.png)
 
-<h1 align="center">Hi 👋, I'm Angel Ramses Hernandez Fonseca</h1>
+<h1 align="center">Hello👋, I am Angel Ramses Hernandez Fonseca</h1>
 <h3 align="center">I am a beginner in QA Engineering with foundational knowledge of the field. I am at the start of my career, eager to learn and apply methodologies and tools to ensure software quality. My goal is to grow and contribute to meaningful projects while gaining hands-on experience</h3>
 
 - 🌱 I’m currently learning **more about QA engineering, Automation test, programming languages, informatic networking, SCRUM, etc.**
