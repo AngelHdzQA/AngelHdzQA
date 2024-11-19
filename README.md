@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ib.angelrhdz@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/angelhernandezfonseca](www.linkedin.com/in/angelhernandezfonseca)
-
-  <h3 align="left">Skills</h3>
   <h2 align="center"></h2>
-
+ <h3 align="left">Skills</h3>
 - Manual Testing (Basics)
 - Checklist(Proficent)
 - Test Planning (Basics)
@@ -40,13 +38,6 @@ Here are some ideas to get you started:
 - API Testing(Basics)
 - GUI Testing(Basics)
 - Command Line (Basics)
-
-  <h2 align="left"></h2>
-
-###
-
-
-###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
